@@ -6,7 +6,7 @@ I will be writing random codes and practice codes in the future
 
 ##Types of codes
 
--Python
--c++
--Java
+- Python
+- c++
+- Java
 

@@ -5,6 +5,7 @@ this project is my first code on GitHub
 I will be writing random codes and practice codes in the future
 
 ##Types of codes
+
 -Python
 -c++
 -Java
